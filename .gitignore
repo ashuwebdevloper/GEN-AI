@@ -1,0 +1,6 @@
+ANN/huge_1M_titanic.csv
+ANN/requirments.txt
+python==3.11
+NLP/movies.pickle
+NLP/similarity.joblib
+venv
